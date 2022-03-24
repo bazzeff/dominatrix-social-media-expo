@@ -2,22 +2,22 @@
 <img
 		width="250"
 		alt="Tinder Clone - Expo"
-		src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/tinder-clone-logo.gif">
+		src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/tinder-clone-logo.gif">
 </h1>
 <h3 align="center">
 	Tinder Clone - Expo
 </h3>
 
 <p align="center">
-	<img src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/tinderclone-preview.gif" width="300">
+	<img src="https://github.com/bazzeff/dominatrix-social-media-expo//master/preview/tinderclone-preview.gif" width="300">
 </p>
 
 
 ## Overview
 
-⚠️ **This project use code of my previous repository [Tinder - React Native](https://github.com/stevenpersia/tinder-react-native). Because I don't have time to maintain this previous project made on React Native, I've decided to switch to Expo because it's more convenient to me. Sorry if you don't work with Expo (but give it a try).**
+⚠️ **This project use to create a kinky social media app where users have more features and control of the desire that they give into by the Dominatrix man or woman they select for their personal fantasy made on React Native.**
 
-**Perfect to start an Tinder Clone app.** 4 screens are availables : Explore, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
+**Perfect to start an Tinder Clone app.** 4 screens are availables : Explore, Login, Register, Password Reset, Dashboard, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
 
 - **Easy to use** 🤘
 - **Made with Expo** ⚡
@@ -27,26 +27,26 @@ This project was inspired by this [amazing Kishore's work on Dribbble](https://d
 
 ## Demo
 
-You can try it here : https://expo.io/@stevenpersia/projects/tinder-expo
+You can try it here : https://expo.io/@bazzeff/projects/dominatrix-social-media-expo
 
 ## Screenshots
 
 <img
 width="205"
 alt="Capture 1"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-1.png">
+src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-1.png">
 <img
 width="205"
 alt="Capture 2"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-2.png">
+src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-2.png">
 <img
 width="205"
 alt="Capture 3"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-3.png">
+src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-3.png">
 <img
 width="205"
 alt="Capture 4"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-4.png">
+src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-4.png">
 
 
 ## Installation and usage
@@ -61,7 +61,7 @@ This project works fine on iOS and Android.
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-expo.git
+git clone https://github.com/bazzeff/dominatrix-social-media-expo
 cd tinder-expo
 ```
 

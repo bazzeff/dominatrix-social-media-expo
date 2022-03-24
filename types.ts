@@ -53,3 +53,6 @@ export type DataT = {
   info4?: string;
   location?: string;
 };
+export type Navigation = {
+  navigate: (scene: string) => void;
+};
