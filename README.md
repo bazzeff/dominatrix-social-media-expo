@@ -1,11 +1,11 @@
 <h1 align="center">
 <img
 		width="250"
-		alt="Tinder Clone - Expo"
+		alt="Dominatrix - Expo"
 		src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/tinder-clone-logo.gif">
 </h1>
 <h3 align="center">
-	Tinder Clone - Expo
+	Dominatrix - Expo
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ⚠️ **This project use to create a kinky social media app where users have more features and control of the desire that they give into by the Dominatrix man or woman they select for their personal fantasy made on React Native.**
 
-**Perfect to start an Tinder Clone app.** 4 screens are availables : Explore, Login, Register, Password Reset, Dashboard, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
+**Perfect to start an Dominatrix app.** 4 screens are availables : Explore, Login, Register, Password Reset, Dashboard, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
 
 - **Easy to use** 🤘
 - **Made with Expo** ⚡

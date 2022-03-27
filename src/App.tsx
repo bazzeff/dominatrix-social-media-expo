@@ -3,16 +3,16 @@ import { Provider } from 'react-native-paper'
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-//import { PRIMARY_COLOR, DARK_GRAY, BLACK, WHITE } from "./assets/styles"; 
+import { PRIMARY_COLOR, DARK_GRAY, BLACK, WHITE } from "./assets/styles"; 
 
-import { theme } from './src/core/theme'
+import { theme } from './src/core'
 import {
   HomeScreen,
   LoginScreen,
   RegisterScreen,
   ForgotPasswordScreen,
   Dashboard,
-} from './src/screens' 
+} from './screens' 
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
 
