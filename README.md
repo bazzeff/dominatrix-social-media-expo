@@ -1,11 +1,11 @@
 <h1 align="center">
 <img
 		width="250"
-		alt="Dominatrix - Expo"
+		alt="Tinder - Expo"
 		src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/tinder-clone-logo.gif">
 </h1>
 <h3 align="center">
-	Dominatrix - Expo
+	Tinder - Expo
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## Overview
 
-⚠️ **This project use to create a kinky social media app where users have more features and control of the desire that they give into by the Dominatrix man or woman they select for their personal fantasy made on React Native.**
+⚠️ **This project use to create a kinky social media app where users have more features and control of the desire that they give into by the Tinder man or woman they select for their personal fantasy made on React Native.**
 
 **Perfect to start an Dominatrix app.** 4 screens are availables : Explore, Login, Register, Password Reset, Dashboard, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
 
@@ -27,26 +27,26 @@ This project was inspired by this [amazing Kishore's work on Dribbble](https://d
 
 ## Demo
 
-You can try it here : https://expo.io/@bazzeff/projects/dominatrix-social-media-expo
+You can try it here : https://expo.io/@bazzeff/projects/Tinder-social-media-expo
 
 ## Screenshots
 
 <img
 width="205"
 alt="Capture 1"
-src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-1.png">
+src="https://github.com/bazzeff/tinder-social-media-expo/master/preview/capture-1.png">
 <img
 width="205"
 alt="Capture 2"
-src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-2.png">
+src="https://github.com/bazzeff/tinder-social-media-expo/master/preview/capture-2.png">
 <img
 width="205"
 alt="Capture 3"
-src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-3.png">
+src="https://github.com/bazzeff/tinder-social-media-expo/master/preview/capture-3.png">
 <img
 width="205"
 alt="Capture 4"
-src="https://github.com/bazzeff/dominatrix-social-media-expo/master/preview/capture-4.png">
+src="https://github.com/bazzeff/tinder-social-media-expo/master/preview/capture-4.png">
 
 
 ## Installation and usage
@@ -61,7 +61,7 @@ This project works fine on iOS and Android.
 Clone this repository :
 
 ```
-git clone https://github.com/bazzeff/dominatrix-social-media-expo
+git clone https://github.com/bazzeff/tinder-social-media-expo
 cd tinder-expo
 ```
 
